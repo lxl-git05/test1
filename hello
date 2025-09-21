@@ -1,6 +1,7 @@
 #include "stdio.h"
 int main(void)
 {
+    // 这是一个新的C文件
     printf("hello") ;
     return 0 ;
 }
