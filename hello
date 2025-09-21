@@ -2,7 +2,8 @@
 int main(void)
 {
     // 这是一个新的C文件,随便写写
+    // f1进行相应修改
     int num = 0 ;
-    printf("hello world,%d",&num) ;
+    printf("hello world,f1 part,%d",&num) ;
     return 0 ;
 }
