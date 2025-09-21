@@ -2,7 +2,7 @@
 int main(void)
 {
     // 这是一个新的C文件,随便写写,将要合并f1-1分支的内容,马上就会起冲突
-    int num = 1 ;
+    int num = 0 ;
     printf("hello world,%d",&num) ;
     return 0 ;
 }
