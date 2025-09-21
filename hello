@@ -1,8 +1,9 @@
 #include "stdio.h"
 int main(void)
 {
-    // 这是一个新的C文件,随便写写,将要合并f1-1分支的内容,马上就会起冲突
-    // 这是main分支的改动
+    // 那么当前的结果就是合并f1,加入了f1的修改注释,保留了main的printf part
+    // 这是一个新的C文件,随便写写
+    // f1进行相应修改
     int num = 0 ;
     printf("hello world,main part,%d",&num) ;
     return 0 ;
