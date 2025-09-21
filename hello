@@ -2,7 +2,8 @@
 int main(void)
 {
     // 这是一个新的C文件,随便写写,将要合并f1-1分支的内容,马上就会起冲突
+    // 这是main分支的改动
     int num = 0 ;
-    printf("hello world,%d",&num) ;
+    printf("hello world,main part,%d",&num) ;
     return 0 ;
 }
